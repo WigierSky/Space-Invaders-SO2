@@ -212,6 +212,7 @@ def main():
 
     #thread 4 - moving enemies and their shots
     def move_enemies():
+        nonlocal lives
         semaphore_enemies.acquire()
         for enemy in enemies[:]:
             enemy.move(ENEMY_POS)
