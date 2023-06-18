@@ -6,7 +6,7 @@ Gracz wciela się w rolę pilota statku kosmicznego, który jest jedyną nadziej
 Na początku gry gracz posiada dwa życia, a jego zadaniem jest unikanie strzałów obcych statków oraz kontratakowanie, eliminując wroga przy pomocy laserowych pocisków. 
 Statek gracza porusza się we wszystkich kierunkach, umożliwiając skuteczne manewrowanie wśród wrogich statków i ich ataków.
 
-Wraz z postępami w grze, poziom trudności wzrasta. Statki obcych zaczynają nadlatywać w coraz większych ilościach i ciężej jesy je pokonać. 
+Wraz z postępami w grze, poziom trudności wzrasta. Statki obcych zaczynają nadlatywać w coraz większych ilościach i ciężej jest je pokonać. 
 Gracz musi zachować zręczność i skupienie, aby unikać trafień i jednocześnie zadawać ostateczne ciosy przeciwnikom.
 
 Dodatkowo, statki obcych mogą próbować ominąć nasz statek, co grozi utratą jednego życia. Jeśli gracz nie da rady uniknąć pocisków wroga odejmowane są mu pynkty życia. 
