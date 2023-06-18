@@ -1,1 +1,1 @@
- enemies_count += 1
+enemies_count
